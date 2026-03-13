@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git\\UniRide\\UniRide\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFD09A1-9F46-4976-8D2D-650419CB83AD}|UniRide\\UniRide.csproj|c:\\git\\uniride\\uniride\\uniride\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBFD09A1-9F46-4976-8D2D-650419CB83AD}|UniRide\\UniRide.csproj|solutionrelative:uniride\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFD09A1-9F46-4976-8D2D-650419CB83AD}|UniRide\\UniRide.csproj|c:\\git\\uniride\\uniride\\uniride\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFD09A1-9F46-4976-8D2D-650419CB83AD}|UniRide\\UniRide.csproj|solutionrelative:uniride\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFD09A1-9F46-4976-8D2D-650419CB83AD}|UniRide\\UniRide.csproj|c:\\git\\uniride\\uniride\\uniride\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFD09A1-9F46-4976-8D2D-650419CB83AD}|UniRide\\UniRide.csproj|solutionrelative:uniride\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFD09A1-9F46-4976-8D2D-650419CB83AD}|UniRide\\UniRide.csproj|c:\\git\\uniride\\uniride\\uniride\\paginalogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFD09A1-9F46-4976-8D2D-650419CB83AD}|UniRide\\UniRide.csproj|solutionrelative:uniride\\paginalogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Git\\UniRide\\UniRide\\UniRide\\Form1.cs",
+              "RelativeDocumentMoniker": "UniRide\\Form1.cs",
+              "ToolTip": "C:\\Git\\UniRide\\UniRide\\UniRide\\Form1.cs",
+              "RelativeToolTip": "UniRide\\Form1.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwDgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T19:22:22.998Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git\\UniRide\\UniRide\\UniRide\\Program.cs",
+              "RelativeDocumentMoniker": "UniRide\\Program.cs",
+              "ToolTip": "C:\\Git\\UniRide\\UniRide\\UniRide\\Program.cs",
+              "RelativeToolTip": "UniRide\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T18:45:08.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaginaLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Git\\UniRide\\UniRide\\UniRide\\PaginaLogin.Designer.cs",
+              "RelativeDocumentMoniker": "UniRide\\PaginaLogin.Designer.cs",
+              "ToolTip": "C:\\Git\\UniRide\\UniRide\\UniRide\\PaginaLogin.Designer.cs",
+              "RelativeToolTip": "UniRide\\PaginaLogin.Designer.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAEwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T18:45:07.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Git\\UniRide\\UniRide\\UniRide\\Form1.cs",
+              "RelativeDocumentMoniker": "UniRide\\Form1.cs",
+              "ToolTip": "C:\\Git\\UniRide\\UniRide\\UniRide\\Form1.cs [Projeto]",
+              "RelativeToolTip": "UniRide\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T18:30:45.018Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
