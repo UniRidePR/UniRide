@@ -30,3 +30,4 @@ C:\Git\UniRide\UniRide\UniRide\bin\Debug\net8.0-windows\runtimes\win-x64\native\
 C:\Git\UniRide\UniRide\UniRide\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
 C:\Git\UniRide\UniRide\UniRide\obj\Debug\net8.0-windows\UniRide.csproj.AssemblyReference.cache
 C:\Git\UniRide\UniRide\UniRide\obj\Debug\net8.0-windows\UniRide.csproj.Up2Date
+C:\Git\UniRide\UniRide\UniRide\obj\Debug\net8.0-windows\UniRide.sourcelink.json

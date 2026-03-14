@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UniRide")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bddbc748649af13bd0baa89bc94372ee17e1d0bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("UniRide")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UniRide")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
